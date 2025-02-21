@@ -68,6 +68,10 @@ Tasks
 
 POST /tasks - Create a new task
 
+
+
+![image](https://github.com/user-attachments/assets/6b566473-48d3-49fe-89c4-f82cd0d13f1e)
+
 GET /tasks - Get all tasks
 
 PUT /tasks/:id - Update task status
