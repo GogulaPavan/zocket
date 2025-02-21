@@ -1,0 +1,26 @@
+{
+    "name": "task-manager",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "next": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "axios": "^1.6.2",
+      "jsonwebtoken": "^9.0.2"
+    },
+    "devDependencies": {
+      "@types/node": "^20.11.27",
+      "@types/react": "^18.2.46",
+      "eslint": "^8.56.0",
+      "eslint-config-next": "latest",
+      "typescript": "^5.4.2"
+    }
+  }
+  
